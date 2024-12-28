@@ -1,0 +1,15 @@
+.product-list-container {
+    padding: 80px;
+    /* justify-self: center; */
+}
+
+.cart-icon {
+    background-color: rgb(185, 207, 255);
+    padding: 40px;
+    
+}
+
+.icon {
+    cursor: pointer;
+    float: right;
+}
